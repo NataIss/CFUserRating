@@ -3,5 +3,5 @@ Codeforces_16_NumOfUsersByColor - calculates number of users for every colors an
 Result are saved in res.csv and col.csv.  
 Tableau dashboard - https://public.tableau.com/app/profile/natalia5014/viz/CFUsersbyColors/Dashboard
 Codeforces_17_NumOfUsersByColorWithBase.ipynb - percentage distribution active users by colors.  
-Data for vizualization - resT.csv.  
+Data for visualization - resT.csv.  
 Tableau dashboard -https://public.tableau.com/app/profile/natalia5014/viz/CFUsersbyColorssinceEnteringCurrentColorScheme/Dashboard1  
